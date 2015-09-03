@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Email Address Verification API'
-copyright = '2015, Email Hippo Ltd.'
+copyright = '2015, verifyemailaddress.io'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -198,7 +198,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'EmailAddressVerificationAPIDocumentation.tex', 'Email Address Verification API',
-   'Email Hippo Ltd.', 'manual'),
+   'verifyemailaddress.io', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -228,7 +228,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'emailaddressverificationapidocumentation', 'Email Address Verification API',
-     ['Email Hippo Ltd.'], 1)
+     ['verifyemailaddress.io'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -242,7 +242,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'EmailAddressVerificationAPIDocumentation', 'Email Address Verification API',
-   'Email Hippo Ltd.', 'EmailAddressVerificationAPIDocumentation', 'One line description of project.',
+   'verifyemailaddress.io', 'EmailAddressVerificationAPIDocumentation', 'One line description of project.',
    'Miscellaneous'),
 ]
 
