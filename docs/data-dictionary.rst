@@ -48,7 +48,7 @@ Main Status Response Codes
 :RetryLater:
 	Conclusive verification result cannot be achieved at this time. Please try again later. - This is ShutDowns, IPBlock, TimeOuts
 	
-:Unknown:
+:Unverifiable:
 	Conclusive verification result cannot be achieved due to mail server configuration 
 	or anti-spam measures. See table \"Additional Status Codes\".
 
