@@ -53,6 +53,13 @@ Data Dictionary
 	
 	data-dictionary
 
+Sandbox
+-------
+.. 	toctree::
+	:maxdepth: 2
+	
+	sandbox
+	
 Features
 --------
 
